@@ -2,6 +2,8 @@ import requests
 import json
 import warnings
 
+# 
+
 # I use a local setup file in my pypath for configuration.
 #  This could be easily converted to use a json instead.
 from local_cfg import phpipamcfg
