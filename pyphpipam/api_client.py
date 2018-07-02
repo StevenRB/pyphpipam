@@ -2,7 +2,7 @@ import requests
 import json
 import warnings
 
-# 
+# https://github.com/StevenRB/pyphpipam
 
 # I use a local setup file in my pypath for configuration.
 #  This could be easily converted to use a json instead.
