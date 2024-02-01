@@ -1,10 +1,9 @@
 import requests
 import json
 import warnings
+import getpass
 
 # https://github.com/StevenRB/pyphpipam
-
-
 
 logger = logging.getLogger()
 
